@@ -5,4 +5,6 @@ for language translation using the Google Translate API and text sentiment analy
 
 pip install -r requirements.txt
 
-2.Run the Code: python translator.py
+2.Make sure the path needs to be adjusted to display the icon in the gui
+
+3.Run the Code: python translator.py
