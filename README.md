@@ -8,3 +8,5 @@ pip install -r requirements.txt
 2.Make sure the path needs to be adjusted to display the icon in the gui
 
 3.Run the Code: python translator.py
+
+![grafik](https://github.com/maalja/Translator_GUI/assets/153437966/7694f06a-ae94-42c2-88ca-8bc01aab8e7b)
